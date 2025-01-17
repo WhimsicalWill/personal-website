@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+        },{id: "projects-subtask",
+          title: 'Subtask',
+          description: "break down and concurrently schedule tasks from natural language prompts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
