@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: blog # blog_name will be displayed in your blog page
+blog_description: coming soon
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -144,13 +144,17 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  projects:
+    output: true
+    permalink: /:collection/:title/
+
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false  # disabled for now until I make some
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -198,10 +202,6 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _projects/
-  - _pages/projects.md
-  - _includes/projects_horizontal.liquid
-  - _includes/projects.liquid
   - _posts/
 keep_files:
   - CNAME
