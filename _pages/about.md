@@ -23,5 +23,5 @@ My experience spans deep learning research and scalable system design, with a fo
 - Deep reinforcement learning, world models, and planning
 - Distributed systems, software architecture, and implementation
 
-I am joining AWS as a software engineer in April 2025, and I'm always eager to collaborate on interesting problems that push the boundaries of AI systems. Please feel free to reach out or connect!
+I am joining AWS as a software engineer in April 2025. I'm always eager to collaborate on interesting problems that push the boundaries of AI systems, so please feel free to reach out!
 
