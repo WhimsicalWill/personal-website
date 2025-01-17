@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Subtask
+description: break down and concurrently schedule tasks from natural language prompts
+img: assets/img/subtask_logo.jpg
 redirect: https://subtask.cc
 importance: 3
 category: engineering
