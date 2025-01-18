@@ -13,60 +13,68 @@
   contents:
     - title: Master of Software Engineering - Scalable Systems
       institution: Carnegie Mellon University
-      year: 2024
+      year: Aug 2023 - Dec 2024
       description:
         - Program focused on scalable systems, including large-scale, intelligent systems.
         - "GPA: 4.11/4.0"
-        - "Relevant Coursework: Formal Methods, Design Patterns, API Design, Quality Assurance, Software Architecture, Engineering Scalable Systems, DevOps, Probabilistic Graphical Models, Machine Learning with Large Datasets, Deep Learning Systems"
+        - "Relevant Coursework: Probabilistic Graphical Models, Machine Learning with Large Datasets, Deep Learning Systems, Engineering Scalable Systems, DevOps, Formal Methods, Design Patterns, API Design, Quality Assurance, Software Architecture, Software Project Management, Quality Management, Software Engineering Practicum"
     - title: Bachelor of Science in Computer Science, Bachelor of Science in Mathematics
       institution: University of Pittsburgh
-      year: 2023
+      year: Aug 2023 - Apr 2023
       description:
         - "GPA: 3.89/4.0"
-        - "Relevant Coursework: Probability, Statistics, Calculus, Real Analysis, Linear Algebra, Game Theory, Graph Theory, Data Science, Machine Learning, Algorithm Design"
+        - "Relevant Coursework: Probability, Statistics, Calculus, Real Analysis, Linear Algebra, Game Theory, Graph Theory, Data Science, Machine Learning, Algorithm Design, Numerical Methods in Scientific Computing, Numerical Linear Algebra, Computational Neuroscience, Intro to Systems Software, Software Quality Assurance, Operating Systems, Data Science"
 
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineering Practicum
+      institution: Oshkosh Corporation | Carnegie Mellon University
+      year: Aug 2024 - Dec 2024
+      description:
+        - Led the development of a machine learning platform for training, exporting, and evaluating models across multiple open-source ML repositories.
+        - Implemented standardized evaluation using ONNX and torchmetrics to ensure reproducibility and performance benchmarking.
+        - Designed a CLI tool for seamless integration and usability, prioritizing extensibility to support additional ML repositories.
+        - Utilized Docker to enhance portability and compatibility across different computing environments.
     - title: Software Developer Intern
       institution: Amazon Web Services (AWS)
-      year: 2024
+      year: May 2024 - Aug 2024
       description:
         - Developed a new API for AWS Organizations to enable efficient event history queries.
         - Integrated pagination for improved customer experience and engineering operations.
         - Worked with microservices, NoSQL, message queues, serverless, and scalable cloud architectures.
     - title: Software Engineer Intern
       institution: Portescap
-      year: 2023
+      year: Jun 2023 - Aug 2023
       description:
         - Spearheaded the software and electronics phase for an automated rotor balancing project.
         - Designed a robust software architecture encompassing a GUI, safety protocols, and control module.
     - title: Undergraduate Research Assistant
       institution: Deepak Pathak Research Group
-      year: 2023
+      year: Feb 2023 - May 2023
       description:
         - Contributed to the research and development of unsupervised reinforcement learning agents.
         - Ported cutting-edge algorithms from TensorFlow to PyTorch.
     - title: Software Engineer Intern
       institution: Software Engineering Institute | Carnegie Mellon University
-      year: 2022
+      year: May 2022 - Dec 2022
       description:
         - Reimplemented and deployed organization-wide responsive emails using the MJML framework.
         - Developed end-to-end tests in Cypress and set up CI/CD with Google Lighthouse for performance tracking.
     - title: Undergraduate Research Assistant
       institution: Batman Lab, University of Pittsburgh
-      year: 2021
+      year: Jun 2021 - Sep 2021
       description:
         - Wrote PyTorch code to produce visualizations and metrics for deep computer vision models detecting cancerous tissue.
     - title: Software Developer Intern
       institution: Lockheed Martin
-      year: 2020
+      year: Jun 2020 - Aug 2020
       description:
         - Created collaborative coding workspaces in the cloud.
         - Used Docker and Kubernetes for optimizing performance and cost-effectiveness.
-    - title: Software Development Intern
+    - title: Software Developer Intern
       institution: Kognition
-      year: 2019
+      year: Jun 2019 - Aug 2019
       description:
         - Investigated methods from computer vision literature and prototyped models for object detection.
         - Designed an algorithm for real-time person tracking using optical flow.
@@ -122,4 +130,4 @@
     - title: Distributed Systems & Software Architecture
       items:
         - Scalable cloud architectures and microservices.
-        - NoSQL databases and efficient event-driven designs.
+        - NoSQL databases, message queues, and serverless.
