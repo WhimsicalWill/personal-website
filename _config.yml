@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: coming soon
+# blog_description: coming soon
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -125,10 +125,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   # - name: medium.com
   #   rss_url: https://medium.com/@al-folio/feed
-  # - name: Google Blog
-  #   posts:
-  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-  #       published_date: 2024-05-14
+  - name: ICLR Blogposts 2025
+    posts:
+      - url: https://iclr-blogposts.github.io/2025/blog/scalable-mcts/
+        published_date: 2025-04-28
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -154,7 +154,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false # disabled for now until I make some
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 

@@ -32,10 +32,9 @@
       institution: Oshkosh Corporation | Carnegie Mellon University
       year: Aug 2024 - Dec 2024
       description:
-        - Led the development of a machine learning platform for training, exporting, and evaluating models across multiple open-source ML repositories.
-        - Implemented standardized evaluation using ONNX and torchmetrics to ensure reproducibility and performance benchmarking.
+        - Led the development of a dockerized machine learning platform for training, exporting, and evaluating models across multiple open-source ML repositories.
         - Designed a CLI tool for seamless integration and usability, prioritizing extensibility to support additional ML repositories.
-        - Utilized Docker to enhance portability and compatibility across different computing environments.
+        - Implemented standardized evaluation using ONNX and torchmetrics to ensure reproducibility and performance benchmarking.
     - title: Software Developer Intern
       institution: Amazon Web Services (AWS)
       year: May 2024 - Aug 2024
